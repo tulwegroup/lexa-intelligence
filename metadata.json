@@ -1,0 +1,7 @@
+{
+  "name": "Lexa Intelligence",
+  "description": "Multi-agent AI-powered platform for UK sponsorship compliance, featuring predictive risk scoring, autonomous evidence collection, and natural language audit capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
